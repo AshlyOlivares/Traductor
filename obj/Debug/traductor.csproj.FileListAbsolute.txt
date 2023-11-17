@@ -1,0 +1,13 @@
+C:\Users\ashly\Downloads\traductor-google-main\traductor\bin\Debug\traductor.exe.config
+C:\Users\ashly\Downloads\traductor-google-main\traductor\bin\Debug\traductor.exe
+C:\Users\ashly\Downloads\traductor-google-main\traductor\bin\Debug\traductor.pdb
+C:\Users\ashly\Downloads\traductor-google-main\traductor\bin\Debug\GoogleTranslateApi.dll
+C:\Users\ashly\Downloads\traductor-google-main\traductor\bin\Debug\GoogleTranslateApi.pdb
+C:\Users\ashly\Downloads\traductor-google-main\traductor\obj\Debug\traductor.csproj.AssemblyReference.cache
+C:\Users\ashly\Downloads\traductor-google-main\traductor\obj\Debug\traductor.Form1.resources
+C:\Users\ashly\Downloads\traductor-google-main\traductor\obj\Debug\traductor.Properties.Resources.resources
+C:\Users\ashly\Downloads\traductor-google-main\traductor\obj\Debug\traductor.csproj.GenerateResource.cache
+C:\Users\ashly\Downloads\traductor-google-main\traductor\obj\Debug\traductor.csproj.CoreCompileInputs.cache
+C:\Users\ashly\Downloads\traductor-google-main\traductor\obj\Debug\traductor.csproj.CopyComplete
+C:\Users\ashly\Downloads\traductor-google-main\traductor\obj\Debug\traductor.exe
+C:\Users\ashly\Downloads\traductor-google-main\traductor\obj\Debug\traductor.pdb
